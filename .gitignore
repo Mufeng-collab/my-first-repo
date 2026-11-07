@@ -1,0 +1,6 @@
+# Python 运行时生成的缓存目录（不用上传）
+__pycache__/
+*.pyc
+
+# macOS 系统文件（不用上传）
+.DS_Store
