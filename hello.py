@@ -7,5 +7,11 @@ def greet(name="世界"):
     return f"你好，{name}！欢迎来到 GitHub。"
 
 
+def greet_en(name="World"):
+    """返回一句英文问候语。"""
+    return f"Hello, {name}! Welcome to GitHub."
+
+
 if __name__ == "__main__":
     print(greet("Mufeng"))
+    print(greet_en("Mufeng"))
